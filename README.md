@@ -1,2 +1,4 @@
-# Data-Mining
-Prediction Of insurance claim status
+# Tableau
+Insurance Car claims
+
+(EDA) EXPLORATION OF CAR CLAIM STATUS TO FINS THE INFERENCE FOR DOING MODEL
